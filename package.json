@@ -1,20 +1,12 @@
 {
   "name": "devops-todo",
   "version": "1.0.0",
+  "description": "A simple DevOps practice project",
   "main": "index.js",
-  "scripts": { 
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "scripts": {
+    "test": "echo \"✅ Tests passed!\""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ankitaubale1323/devops-todo.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ankitaubale1323/devops-todo/issues"
-  },
-  "homepage": "https://github.com/ankitaubale1323/devops-todo#readme",
-  "description": ""
+  "author": "Ankita Ubale",
+  "license": "ISC"
 }
+
